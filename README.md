@@ -1,2 +1,2 @@
-# website miza.github.io
+# Website miza.github.io
 ## Website profile MizaG
